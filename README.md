@@ -1,3 +1,4 @@
+Inventory demo video: https://drive.google.com/file/d/1DNkZhmJ2s6fEm4u16RSip2yGBPCs_kq0/view?usp=sharing
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
